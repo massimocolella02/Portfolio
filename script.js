@@ -6,7 +6,7 @@
     { type: 'cmd', text: 'cat ruolo.txt' },
     { type: 'out', text: 'Penetration Tester in formazione — ex Web Developer (Magento 2)' },
     { type: 'cmd', text: 'ls certificazioni/' },
-    { type: 'out', text: 'eJPT.cert   VirtualHackingLabs.cert   OSCP.pending' },
+    { type: 'out', text: 'eJPT.cert   VirtualHackingLabs.cert   OSCP.cert' },
     { type: 'cmd', text: '_' }
   ];
 
