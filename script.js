@@ -2,7 +2,7 @@
   // Effetto terminale: digita alcune righe di comando una volta sola al caricamento
   const lines = [
     { type: 'cmd', text: 'whoami' },
-    { type: 'out', text: '[Il Tuo Nome]' },
+    { type: 'out', text: 'Massimo Colella' },
     { type: 'cmd', text: 'cat ruolo.txt' },
     { type: 'out', text: 'Penetration Tester in formazione — ex Web Developer (Magento 2)' },
     { type: 'cmd', text: 'ls certificazioni/' },
